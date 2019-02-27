@@ -7,6 +7,6 @@
 
 Paragraph text here
 
-'''
+```
 Puts "this is code
-'''
+```

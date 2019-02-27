@@ -6,3 +6,7 @@
 * Bullet 2
 
 Paragraph text here
+
+'''
+Puts "this is code
+'''

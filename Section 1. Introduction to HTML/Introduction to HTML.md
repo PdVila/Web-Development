@@ -14,9 +14,3 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 <h6>Heading level 6</h6>
 ```
 
-git clone git@github.com:username/repo.git
-cd repo
-git branch gh-pages
-# Might need to do this first: git branch -D gh-pages
-git push -u origin gh-pages # Push the new branch back to github
-Go to http://pdvila.github.io/repo
